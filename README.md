@@ -7,6 +7,8 @@ link para o curso [Python Pro](https://www.python.pro.br)
 
 [![Build Status](https://travis-ci.org/jacaboyjr/libpythonap.svg?branch=master)](https://travis-ci.org/jacaboyjr/libpythonap)
 
+[![Updates](https://pyup.io/repos/github/jacaboyjr/libpythonap/shield.svg)](https://pyup.io/repos/github/jacaboyjr/libpythonap/)
+
 Suportada versão 3 de Python
 
 Topicos a serem abordados:
