@@ -9,6 +9,8 @@ link para o curso [Python Pro](https://www.python.pro.br)
 
 [![Updates](https://pyup.io/repos/github/jacaboyjr/libpythonap/shield.svg)](https://pyup.io/repos/github/jacaboyjr/libpythonap/)
 
+[![Python 3](https://pyup.io/repos/github/jacaboyjr/libpythonap/python-3-shield.svg)](https://pyup.io/repos/github/jacaboyjr/libpythonap/)
+
 Suportada versão 3 de Python
 
 Topicos a serem abordados:
