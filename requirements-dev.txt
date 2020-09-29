@@ -5,9 +5,9 @@ pyflakes==2.2.0
 
 #Deps do Pytest
 pyparsing==2.0.2
-attrs==17.4.0
+attrs==20.2.0
 py==1.8.2
-attrs==17.4.0
+attrs==20.2.0
 pluggy==0.12
 pytest==6.1.0
 six==1.15.0
